@@ -1,10 +1,10 @@
 # AR-Game
 
-# AR-Game
+
 
 # Project Name
 
-<h1>Endless AR game</h1>
+<h2>Endless AR game</h2>
 
 ## Description
 
